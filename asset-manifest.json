@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sorry_project/static/css/main.09beb530.css",
+    "main.js": "/sorry_project/static/js/main.772ebead.js",
+    "static/js/453.d2666385.chunk.js": "/sorry_project/static/js/453.d2666385.chunk.js",
+    "static/media/Barbie2.jpg": "/sorry_project/static/media/Barbie2.245a405ac90d5ab5e5ba.jpg",
+    "static/media/Barbie.jpg": "/sorry_project/static/media/Barbie.2f11291637e34edca807.jpg",
+    "static/media/Snap.jpg": "/sorry_project/static/media/Snap.6df191d46b09d788a91d.jpg",
+    "static/media/sky.jpg": "/sorry_project/static/media/sky.cdac0c84b2eddfdae52d.jpg",
+    "static/media/uurja.jpg": "/sorry_project/static/media/uurja.41a4dea360a7e92ae1a2.jpg",
+    "static/media/bus.jpg": "/sorry_project/static/media/bus.b5ddfe8082c49fc6e27d.jpg",
+    "static/media/dholida.jpg": "/sorry_project/static/media/dholida.ac28b2b73320f17aacf0.jpg",
+    "static/media/samanvay.jpg": "/sorry_project/static/media/samanvay.45e6e50c46f01fe5c426.jpg",
+    "static/media/hug2.jpg": "/sorry_project/static/media/hug2.d07c1d03f6b7839b926a.jpg",
+    "static/media/hug.jpg": "/sorry_project/static/media/hug.09ad986a3ff24b6197ee.jpg",
+    "static/media/hug3.jpg": "/sorry_project/static/media/hug3.ec3ddca2ba14e4dfd681.jpg",
+    "static/media/JW.jpg": "/sorry_project/static/media/JW.70df7d74e4208a28d100.jpg",
+    "index.html": "/sorry_project/index.html",
+    "main.09beb530.css.map": "/sorry_project/static/css/main.09beb530.css.map",
+    "main.772ebead.js.map": "/sorry_project/static/js/main.772ebead.js.map",
+    "453.d2666385.chunk.js.map": "/sorry_project/static/js/453.d2666385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09beb530.css",
+    "static/js/main.772ebead.js"
+  ]
+}
